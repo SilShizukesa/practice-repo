@@ -1,27 +1,27 @@
-## First Name Last Name
+**Noah Vanscoyoc**
 
-### Term Year 
+***2023-24***
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Accounting for Managers
 
-- Course 2
+- Foundations in Data Analytics
 
-- Course 3
+- Stats 2
 
-- Course 4
+- Microeconomics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Video games
 
-- Thing 2
+- Football
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- making videos on tiktok which you can find at <https://www.tiktok.com/@silenciasilent>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/08/29
