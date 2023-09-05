@@ -4,13 +4,14 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Accounting for Managers
+|  Prefix  |  Number  |  Name  |  Credits  |
+|:----------:|:----------:|:--------:|:-----------:|
+| **COP**    | **2073**   | _Foundations of Data Analytics_ | 3 |
+| **ECO**    | **2023**   | _Principles of Microeconomics_|  3  |
+| **ACG**    | **2020**   | _Accounting for Managers_     |  3  |
+| **STA**    | **3036**   | _Stats 2_                     |  3  |
 
-- Foundations in Data Analytics
 
-- Stats 2
-
-- Microeconomics
 
 **Hobbies:**
 
